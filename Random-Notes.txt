@@ -1,0 +1,43 @@
+// Setting up a basic app and vuln endpoint 
+// risk ratings 
+// Lookkup dangerous ruby functions 
+// Google vulns in express
+// xxs in express
+// node js owasp cheat sheet 
+// what are sql queries in express
+// portswigger 
+// you'll get a lot from shadowing
+// download apps -- see 
+// express best practices -- look at this 
+
+NPM package manager
+
+npm - global command comes with node
+npm --version gives version
+local dependency -- use only in this project
+    -->npm -i <package name>
+global depencies
+    --> npm -g install -g <packageName> 
+
+package.json -- manifest file that stores important info
+about project/package
+manual approach 
+    - create package.json in the root
+    - create properties etc
+npm init (step by step ent tero skip)
+npm init -y (everything default)
+
+
+npm init -y 
+generates a package.json file
+That is where the dependencies are stored 
+npm i lodash installs it locally
+you have to declare local dependencies first 
+const _ = require('lo')
+
+
+
+
+
+
+

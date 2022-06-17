@@ -1,0 +1,14 @@
+{
+  "name": "node_john_smigla_free_code_camp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-info.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
